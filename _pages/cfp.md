@@ -10,8 +10,8 @@ search_exclude: true
 ## **Important Dates**
 
 All deadlines are at 11:59 PM [AoE](https://www.timeanddate.com/time/zones/aoe).
-* April 26th, 2025: CMT submission portal opens
-* May 8th, 2025: Abstract submission deadline
+* ~~April 26th, 2025: CMT submission portal opens~~
+* ~~May 8th, 2025: Abstract submission deadline~~
 * June 15th, 2025: Workshop paper submission deadline
 * July 1st, 2025: Paper decision notifications
 * July 14th, 2025: Camera-ready deadline
